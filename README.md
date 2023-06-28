@@ -2,7 +2,7 @@
 
 ##
 ### กราฟที่ 1 : กราฟแสดงราคาน้ำมันเบรนท์เฉลี่ยในแต่ละไตรมาศ ในช่วงปี ค.ศ. 2013 - 2023
-![Graph1](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/06fe7a1a-c390-4632-88c4-6e4df69fec02)
+![Graph1](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/95bdb5f2-fff0-47b8-931a-e08d6e52b0d3)
 detail 1 
 
 
