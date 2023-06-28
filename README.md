@@ -14,7 +14,7 @@ detail 2
 
 
 ### กราฟที่ 3: กราฟแสดงการเปรียบเทียบราคาเฉลี่ยของ Ethylene และ Propylene ในแต่ละไตรมาศ ในช่วงปี ค.ศ. 2013 - 2023
-![graph3](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/9d65c842-d9e1-4a2f-a006-b2b142c79f3c)
+![Graph3](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/9704e8bf-e459-4d8a-85ff-86a75cdcbfa3)
 detail 3
 
 
