@@ -8,7 +8,7 @@ detail 1
 
 
 ### กราฟที่ 2: กราฟแสดงราคาการกลั่นเฉลี่ยในแต่ละไตรมาศ ในช่วงปี ค.ศ. 2013 - 2023
-![Graph2](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/77da7f14-ab81-480b-9316-429625583863)
+![Graph2](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/d3e0a323-5be9-4aa3-ac16-861ae6ef9c22)
 detail 2
 
 
