@@ -56,7 +56,7 @@
 3. คุณ รัตนา พรมสุวรรณ์      (6520422020)
 
 
-### แหล่งที่มาของข้อมูล : 
+### แหล่งอ้างอิง : 
 1. https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
 2. http://www.oie.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH
 3. https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
