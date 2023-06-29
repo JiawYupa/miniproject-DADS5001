@@ -63,6 +63,7 @@
 4. https://www.ryt9.com/s/iq35/3131578
 5. https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
 6. https://www.ftipc.or.th/th/petrochemical/8
+7. https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
 
 
 
