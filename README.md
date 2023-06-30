@@ -69,6 +69,7 @@
 6. https://www.ftipc.or.th/th/petrochemical/8
 7. https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
 8. https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
+9. https://about.bnef.com/electric-vehicle-outlook/
 
 
 
