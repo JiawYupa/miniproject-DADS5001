@@ -67,17 +67,17 @@
 
 
 ### แหล่งอ้างอิง : 
-(1) https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
-(2) http://www.oie.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH
-(3) https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
-(4) https://www.ryt9.com/s/iq35/3131578
-(5) https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
-(6) https://www.ftipc.or.th/th/petrochemical/8
-(7) https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
-(8) https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
-(9) https://about.bnef.com/electric-vehicle-outlook/
-(10) https://www.posttoday.com/politics/33331
-(11) https://www.researchgate.net/figure/General-overview-of-the-production-of-petrochemicals-building-blocks-and-their-downstream_fig6_268523533
+###### (1) https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
+###### (2) http://www.oie.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH
+###### (3) https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
+###### (4) https://www.ryt9.com/s/iq35/3131578
+###### (5) https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
+###### (6) https://www.ftipc.or.th/th/petrochemical/8
+###### (7) https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
+###### (8) https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
+###### (9) https://about.bnef.com/electric-vehicle-outlook/
+###### (10) https://www.posttoday.com/politics/33331
+###### (11) https://www.researchgate.net/figure/General-overview-of-the-production-of-petrochemicals-building-blocks-and-their-downstream_fig6_268523533
 
 
 
