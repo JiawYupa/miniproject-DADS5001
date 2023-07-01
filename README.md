@@ -74,18 +74,17 @@
 
 
 ### แหล่งอ้างอิง : 
-###### (1) https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
-###### (2) https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
+###### (1) https://shorturl.asia/7x36F
+###### (2) https://shorturl.asia/waZ04
 ###### (3) https://www.ryt9.com/s/iq35/3131578
-###### (4) https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
+###### (4) https://shorturl.asia/j4d63
 ###### (5) https://www.ftipc.or.th/th/petrochemical/8
-###### (6) https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
-###### (7) https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
+###### (6) https://shorturl.asia/vEudz
+###### (7) https://shorturl.asia/a5ulh
 ###### (8) https://about.bnef.com/electric-vehicle-outlook/
 ###### (9) https://www.posttoday.com/politics/33331
-###### (10) https://www.researchgate.net/figure/General-overview-of-the-production-of-petrochemicals-building-blocks-and-their-downstream_fig6_268523533
-###### (11) [ราคาน้ำมันผ่านจุดต่ำสุดไปแล้ว (posttoday.com)](https://www.posttoday.com/business/412890)https://www.posttoday.com/business/412890
-###### (12) https://www.investing.com/analysis/oil-prices-energy-supply-in-focus-as-russiaukraine-tensions-rise-200615323?utm_source=google&utm_medium=cpc&utm_campaign=18448386153&utm_content=646224882383&utm_term=dsa-1547773562090_&GL_Ad_ID=646224882383&GL_Campaign_ID=18448386153&ISP=1&ppu=1&gclid=Cj0KCQjwnf-kBhCnARIsAFlg493lzqB30CWNnNb_XUB1nDyV86jBI44tUCvGnujxHKUn0X126V7YI80aAjZDEALw_wcB
-
+###### (10) https://shorturl.asia/NkOio
+###### (11) https://shorturl.asia/vF31I
+###### (12) https://shorturl.asia/n4HAC
 
 
