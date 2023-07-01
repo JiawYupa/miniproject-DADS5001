@@ -12,6 +12,7 @@
 - ผลิตภัณฑ์ปิโตรเคมี คือ ผลิตภัณฑ์ที่ผลิตได้โดยมีวัตถุดิบหลักมาจากการปิโตรเลียม ซึ่งมีหลากหลายประเภท ตั้งแต่พลังงานต่างๆ เช่น น้ำมัน หรือ แก๊ส อีกทั้งใช้เป็นวัตถุดิบตั้งต้นในโรงงานอุตสาหกรรม เช่น ก๊าซต่างๆ ไปจนกระทั่งเม็ดพลาสติก เส้นใยสังเคราะห์ อะไรก็แล้วแต่ที่มีต้นกำเนิดมาจาก ปิโตรเลียม อาจกล่าวได้ว่าเป็น ผลิตภัณฑ์ปิโตรเคมี
 
 ### Pitrochemical Flow Chart
+###### (11)
 ![Pitro_FlowChart](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/95e37628-3c65-491f-853a-b1cd874392eb)
 
 
@@ -28,7 +29,8 @@
 ### กราฟที่ 1 : ราคาน้ำมันเบรนท์เฉลี่ยในแต่ละไตรมาส ในช่วงปี ค.ศ. 2013 - 2023 (ไตรมาสที่ 2)
 ![Graph1](https://github.com/JiawYupa/miniproject-DADS5001/assets/126368266/95bdb5f2-fff0-47b8-931a-e08d6e52b0d3)
 จากกราฟที่ 1 จะเห็นว่า ราคาน้ำมันเบรนท์ในช่วง ค.ศ. 2013 - 2023 มีความผันผวนตามปัจจัยทางด้านอุปทานเป็นหลัก โดยในช่วง ค.ศ.2014 - 2015 มีการปรับตัวลงของราคาจากอุปทานของ Shale oil ในสหรัฐอเมริกา ที่เพิ่มขึ้นอย่างรวดเร็ว เนื่องจากการเพิ่มขึ้นของจำนวนแท่นขุดเจาะน้ำมัน (Rig Count) สู่ระดับสูงสุดที่ 1,609 แท่น ในไตรมาสที่ 4 ปี ค.ศ. 2014 และเกิดวิกฤติหนี้สาธารณะยุโรป ขณะที่อุปสงค์ขยายตัวปรับขึ้นเฉลี่ย 1.4 ล้านบาร์เรล/วัน ราคาน้ำมันเริ่มขยับตัวขึ้นอีกครั้ง ตั้งแต่ไตรมาสที่ 1 ปี ค.ศ. 2016 อย่างค่อยเป็นค่อยไป จนกระทั่งปี ค.ศ. 2019 ที่มีสงครามการค้าสหรัฐอเมริกา-จีน และสถานการณ์การแพร่ระบาดของโควิด 19 ที่ทำให้การบริโภคน้ำมันปรับตัวลงตั้งแต่ไตรมาสที่ 2 ปี ค.ศ. 2020 เนื่องจากการล็อคดาวน์ประเทศที่ทำให้การบริโภคน้ำมันลดลงเกือบ 9 ล้านบาร์เรล/วัน จนนำไปสู่การประกาศลดการผลิตของ OPEC Plus ในเดือนพฤษภาคม ปี ค.ศ. 2020 ถึง 9.7 ล้านบาร์เรล/วัน ทำให้ราคาน้ำมันปรับตัวขึ้นอย่างต่อเนื่อง โดยเฉพาะหลังจากที่หลายประเทศเริ่มกลับมาเปิดประเทศอีกครั้งตั้งแต่ปลายปี ค.ศ. 2021 ถึงต้นปี ค.ศ. 2022 ซึ่งตามมาด้วยการรุกรานยูเครนโดยรัสเซียในไตรมาสที่ 2 ปี ค.ศ. 2022 และทำให้ตลาดกังวลต่อผลกระทบต่ออุปทานน้ำมัน ขณะที่ปริมาณน้ำมันในคลังอยู่ในระดับต่ำ แต่ราคาน้ำมันค่อย ๆ ไต่ระดับลงจากอุปทานที่เพิ่มขึ้นจาก OPEC Plus ตั้งแต่เดือนเมษายน ค.ศ. 2022 อย่างไรก็ตาม ราคาน้ำมันที่อยู่ในระดับสูงในช่วงครึ่งปีแรกขอปี ค.ศ. 2022 ทำให้อัตราเงินเฟ้อปรับตัวขึ้นอย่างมาก และธนาคารกลางของหลายประเทศต้องปรับขึ้นอัตราดอกเบี้ย ส่งผลให้เศรษฐกิจชะลอตัวลง และทำให้ราคาน้ำมันปรับลงต่อเนื่อง จนในที่สุด OPEC Plus ต้องประกาศลดการผลิตลงถึง 3 ครั้งในเดือนตุลาคม ค.ศ. 2022 (2 ล้านบาร์เรล/วัน) เดือนเมษายน ค.ศ. 2023 (1.66 ล้านบาร์เรล/วัน) และเดือนมิถุนายน ค.ศ. 2023 (1 ล้านบาร์เรล/วัน) รวมเป็นการผลิตที่ลดลงกว่า 4.7 ล้านบาร์เรล/วัน
-  
+###### (10)
+
 
 
 ### กราฟที่ 2: ค่าการกลั่นเฉลี่ยในแต่ละไตรมาส ในช่วงปี ค.ศ. 2013 - 2023 (ไตรมาสที่ 2)
@@ -59,23 +61,23 @@
 
 
 ### คณะผู้จัดทำ :
-1. คุณ นพรัตน์ ประมวลวัลลิกุล  (6520422004)
-2. คุณ ยุภาวดี จูมมะณีย์       (6520422006)
-3. คุณ รัตนา พรมสุวรรณ์      (6520422020)
+- คุณ นพรัตน์ ประมวลวัลลิกุล  (6520422004)
+- คุณ ยุภาวดี จูมมะณีย์       (6520422006)
+- คุณ รัตนา พรมสุวรรณ์      (6520422020)
 
 
 ### แหล่งอ้างอิง : 
-1. https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
-2. http://www.oie.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH
-3. https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
-4. https://www.ryt9.com/s/iq35/3131578
-5. https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
-6. https://www.ftipc.or.th/th/petrochemical/8
-7. https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
-8. https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
-9. https://about.bnef.com/electric-vehicle-outlook/
-10. https://www.posttoday.com/politics/33331
-11. https://www.researchgate.net/figure/General-overview-of-the-production-of-petrochemicals-building-blocks-and-their-downstream_fig6_268523533
+(1) https://sustainability.pttgcgroup.com/storage/document/integrated-sustainability-reports/2021/e-book/en/78/
+(2) http://www.oie.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH
+(3) https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020
+(4) https://www.ryt9.com/s/iq35/3131578
+(5) https://www.gsbresearch.or.th/wp-content/uploads/2020/09/IN_petro_8_63_detail.pdf
+(6) https://www.ftipc.or.th/th/petrochemical/8
+(7) https://www.mreport.co.th/news/statistic-and-ranking/220-Global-Electric-Vehicles-Sales-2023-expects-to-reach-14-million
+(8) https://www.mreport.co.th/news/trend-and-innovation/201-electric-vehicle-market-trends-2023
+(9) https://about.bnef.com/electric-vehicle-outlook/
+(10) https://www.posttoday.com/politics/33331
+(11) https://www.researchgate.net/figure/General-overview-of-the-production-of-petrochemicals-building-blocks-and-their-downstream_fig6_268523533
 
 
 
